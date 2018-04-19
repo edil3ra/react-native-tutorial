@@ -12,6 +12,7 @@
     "start": "react-native start",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
+    "log": "react-native log-android ",
     "test": "jest"
   },
   "jest": {
@@ -19,6 +20,6 @@
   },
   "dependencies": {
     "react": "16.3.0-alpha.1",
-    "react-native": "0.54.0"
+    "react-native": "0.54.2"
   }
 }
